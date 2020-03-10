@@ -1,0 +1,13 @@
+{
+  "name": "math-app",
+  "version": "1.0.0",
+  "description": "A simple math app",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mohindersaluja/basic-math-utils": "^2.0.0",
+    "@mohindersaluja/format-utils": "^3.0.0"
+  }
+}
