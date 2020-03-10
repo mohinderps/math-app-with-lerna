@@ -1,5 +1,5 @@
 {
-  "name": "@mohindersaluja/math-app",
+  "name": "@mohindersaluja/math-app-p3",
   "publishConfig": {
     "access": "public"
   },
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mohindersaluja/basic-math-utils": "^2.0.0",
-    "@mohindersaluja/format-utils": "^3.0.0"
+    "@mohindersaluja/math-app-p1": "2.0.0",
+    "@mohindersaluja/math-app-p2": "3.0.0"
   }
 }
