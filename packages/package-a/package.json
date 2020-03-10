@@ -1,5 +1,5 @@
 {
-  "name": "super-basic-math-utils",
+  "name": "@mps/basic-math-utils",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
