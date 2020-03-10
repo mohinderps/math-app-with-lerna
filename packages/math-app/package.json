@@ -1,5 +1,8 @@
 {
-  "name": "math-app",
+  "name": "@mohindersaluja/math-app",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "A simple math app",
   "main": "./src/index.js",
