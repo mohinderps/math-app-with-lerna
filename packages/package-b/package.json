@@ -1,5 +1,5 @@
 {
-  "name": "@mohindersaluja/package-b",
+  "name": "@mohindersaluja/format-utils",
   "publishConfig": {
     "access": "public"
   },
