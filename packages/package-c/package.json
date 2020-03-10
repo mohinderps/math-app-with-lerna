@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mohindersaluja/math-app-p1": "2.0.0",
-    "@mohindersaluja/math-app-p2": "3.0.0"
+    "@mohindersaluja/math-app-p1": "^1.0.0",
+    "@mohindersaluja/math-app-p2": "^1.0.0"
   }
 }
